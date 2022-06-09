@@ -1,0 +1,13 @@
+
+h1{
+    color: rgb(216, 12, 97);
+    text-align: center;
+    background-color: rgb(222, 224, 117);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+}
